@@ -1,4 +1,4 @@
-### (https://raw.github.com/Kutirimpuy/Kutirimpuy/blob/main/Kutirimpuy_emote.png) Hi there 👋
+### ![Alt text](https://raw.githubusercontent.com/Kutirimpuy/Kutirimpuy/main/Kutirimpuy_emote.png) Hi there 👋
 
 <!--
 **Kutirimpuy/Kutirimpuy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
