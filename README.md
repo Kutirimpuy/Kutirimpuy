@@ -1,4 +1,7 @@
-#   <img src="https://raw.githubusercontent.com/Kutirimpuy/Kutirimpuy/main/Kutirimpuy_emote.png" width="45" alt="Alt text"> Hi there 👋, my name is Kutirimpuy <img src="https://github.com/Kutirimpuy/Kutirimpuy/assets/138833265/b6b6dd2f-12ca-42b0-aae3-5dd23e3a5412" width="38" alt="Cabezas">
+<h1 align="center">
+  <img src="https://raw.githubusercontent.com/Kutirimpuy/Kutirimpuy/main/Kutirimpuy_emote.png" width="45" alt="Alt text" style="vertical-align: middle;"> <b>Hi there 👋, my name is Kutirimpuy</b> <img src="https://github.com/Kutirimpuy/Kutirimpuy/assets/138833265/b6b6dd2f-12ca-42b0-aae3-5dd23e3a5412" width="38" alt="Cabezas" style="vertical-align: middle;">
+</h1>
+
 
 <!--
 **Kutirimpuy/Kutirimpuy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
