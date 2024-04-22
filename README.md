@@ -8,9 +8,9 @@
 
 Actualmente estoy cursando un grado en Ingeniería Mecatrónica 🤖.
 
-Nunca he dejado de creer en la importancia del aprendizaje continuo y la reinvención personal🌱. Mi interés en este campo surgió de mi fascinación por la integración de sistemas mecánicos⚙️, electrónicos💡 y de software 💻 para crear soluciones innovadoras que puedan enfrentar grandes desafíos del mañana. Con mi amplia experiencia y la nueva perspectiva que estoy adquiriendo, espero hacer una contribución significativa a la industria tecnológica, demostrando que nunca es tarde para seguir tus pasiones y transformar el mundo que te rodea.
+<p style="text-align: left;">Nunca he dejado de creer en la importancia del aprendizaje continuo y la reinvención personal🌱. Mi interés en este campo surgió de mi fascinación por la integración de sistemas mecánicos⚙️, electrónicos💡 y de software 💻 para crear soluciones innovadoras que puedan enfrentar grandes desafíos del mañana. Con mi amplia experiencia y la nueva perspectiva que estoy adquiriendo, espero hacer una contribución significativa a la industria tecnológica, demostrando que nunca es tarde para seguir tus pasiones y transformar el mundo que te rodea.</p>
 
-✨Creo firmemente que nunca es tarde para seguir intentándolo y alcanzar nuestros sueños✨
+<p style="text-align: left;">✨Creo firmemente que nunca es tarde para seguir intentándolo y alcanzar nuestros sueños✨</p>
 
 <!--
 **Kutirimpuy/Kutirimpuy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
