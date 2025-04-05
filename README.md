@@ -4,8 +4,8 @@
 <br>I am a Mechatronics Engineering student with a great passion for robotics, automation and technological innovation. I am always looking for new technologies and challenging challenges that allow me to keep learning and growing in my field.<br>
 
 ###
-<img align="right" height="150" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTY1MnY4ZzdicjAzMzBldWk5eWJ0ZXAyYTN0dDkzYmlodDM4cDgycCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JqmupuTVZYaQX5s094/giphy.gif"  />
-###
+<img align="right" height="200" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTY1MnY4ZzdicjAzMzBldWk5eWJ0ZXAyYTN0dDkzYmlodDM4cDgycCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JqmupuTVZYaQX5s094/giphy.gif"  />
+
 <br>💡I am passionate about:<br>
 
 🤖 Robotics and automation <br>
