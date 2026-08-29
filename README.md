@@ -98,7 +98,7 @@ Aprendiendo y creciendo 🚀
 
 <!-- Cuando subas tus primeros repos con código, descomenta la línea de abajo para mostrar tus lenguajes más usados -->
 <!-- <img src="https://github-readme-stats-delta-neon-32.vercel.app/api/top-langs/?username=kutirimpuy&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="165" alt="languages graph" /> -->
-<img src="https://github-profile-trophy.vercel.app/?username=kutirimpuy&theme=dracula&no-frame=false&no-bg=true&margin-w=4&row=2&column=3" height="165" alt="trophies" />
+<img src="https://github-profile-trophy-mu-eosin.vercel.app/?username=kutirimpuy&theme=dracula&no-frame=false&no-bg=true&margin-w=4&row=2&column=3" height="165" alt="trophies" />
 
 </td>
 </tr>
@@ -107,7 +107,7 @@ Aprendiendo y creciendo 🚀
 ## 🔝 Top Contributed Repositories
 
 <div align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=kutirimpuy&limit=5&theme=dark&combine_all_yearly_contributions=true" height="150" alt="top contrib" />
+  <img src="https://github-repository-contribution-stat-chi.vercel.app/api?username=kutirimpuy&limit=5&theme=dark&combine_all_yearly_contributions=true" height="150" alt="top contrib" />
 </div>
 
 <br clear="both">
