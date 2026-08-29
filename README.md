@@ -1,6 +1,7 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00979D,100:0A66C2&height=200&section=header&text=¡Hola,%20soy%20Renato!&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Mechatronics%20Engineer%20%7C%20Robotics%20%26%20Automation&descAlignY=55&descSize=18" alt="Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00979D%2C100:0A66C2&height=200&section=header&text=%C2%A1Hola%2C%20soy%20Renato%21&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Mechatronics%20Engineer%20%7C%20Robotics%20%26%20Automation&descAlignY=55&descSize=18" alt="Banner" />
 </div>
+
 <table>
 <tr>
 <td width="30%" valign="top">
@@ -95,7 +96,8 @@ Aprendiendo y creciendo 🚀
 </td>
 <td width="40%" valign="top">
 
-<img src="https://github-readme-stats-delta-neon-32.vercel.app/api/top-langs/?username=kutirimpuy&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="165" alt="languages graph" /><br/>
+<!-- Cuando subas tus primeros repos con código, descomenta la línea de abajo para mostrar tus lenguajes más usados -->
+<!-- <img src="https://github-readme-stats-delta-neon-32.vercel.app/api/top-langs/?username=kutirimpuy&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="165" alt="languages graph" /> -->
 <img src="https://github-profile-trophy.vercel.app/?username=kutirimpuy&theme=dracula&no-frame=false&no-bg=true&margin-w=4&row=2&column=3" height="165" alt="trophies" />
 
 </td>
