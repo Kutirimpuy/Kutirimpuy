@@ -90,14 +90,14 @@ Aprendiendo y creciendo 🚀
 <tr>
 <td width="60%" valign="top">
 
-<img src="https://github-readme-stats.vercel.app/api?username=kutirimpuy&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" width="100%" alt="stats graph" />
-<img src="https://streak-stats.demolab.com/?user=kutirimpuy&theme=dracula&hide_border=false" width="100%" alt="streak stats" />
+<img src="https://github-readme-stats-delta-neon-32.vercel.app/api?username=kutirimpuy&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="165" alt="stats graph" /><br/>
+<img src="https://streak-stats.demolab.com/?user=kutirimpuy&theme=dracula&hide_border=false" height="165" alt="streak stats" />
 
 </td>
 <td width="40%" valign="top">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kutirimpuy&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="100%" alt="languages graph" />
-<img src="https://github-profile-trophy.vercel.app/?username=kutirimpuy&theme=dracula&no-frame=false&no-bg=true&margin-w=4&row=2&column=3" width="100%" alt="trophies" />
+<img src="https://github-readme-stats-delta-neon-32.vercel.app/api/top-langs/?username=kutirimpuy&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="165" alt="languages graph" /><br/>
+<img src="https://github-profile-trophy.vercel.app/?username=kutirimpuy&theme=dracula&no-frame=false&no-bg=true&margin-w=4&row=2&column=3" height="165" alt="trophies" />
 
 </td>
 </tr>
