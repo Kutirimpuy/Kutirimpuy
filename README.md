@@ -26,7 +26,7 @@
 <td width="70%" valign="top">
 
 <a href="https://github.com/kutirimpuy">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=0A66C2&center=false&vCenter=true&width=600&lines=Mechatronics+Engineering+Student;Robotics+%26+Automation+Enthusiast;Always+learning+new+technologies!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=0A66C2&center=false&vCenter=true&width=480&lines=Mechatronics+Engineering+Student;Robotics+%26+Automation+Enthusiast;Always+learning+new+technologies!" alt="Typing SVG" />
 </a>
 
 Soy estudiante de Ingeniería Mecatrónica con gran pasión por la robótica, la automatización y la innovación tecnológica. Siempre estoy buscando nuevas tecnologías y desafíos que me permitan seguir aprendiendo y creciendo en mi campo.
@@ -43,9 +43,11 @@ Soy estudiante de Ingeniería Mecatrónica con gran pasión por la robótica, la
 
 <br clear="both">
 
-## 💻 Tech Stack
+## 💻 Tech Stack &nbsp;&nbsp;|&nbsp;&nbsp; 🖥️ Panel de actividad
 
-<div align="center">
+<table>
+<tr>
+<td width="45%" valign="top">
 
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
@@ -56,9 +58,8 @@ Soy estudiante de Ingeniería Mecatrónica con gran pasión por la robótica, la
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
-</div>
-
-## 🖥️ Panel de actividad
+</td>
+<td width="55%" valign="top">
 
 ```bash
 $ whoami
@@ -66,7 +67,8 @@ kutirimpuy
 
 $ about-me
 > Estudiante de Ingeniería Mecatrónica
-> Apasionado por robótica, automatización e innovación
+> Apasionado por robótica, automatización
+  e innovación
 
 $ actualmente
 ✔ Explorando sistemas embebidos
@@ -78,22 +80,28 @@ $ status
 Aprendiendo y creciendo 🚀
 ```
 
-## 📊 GitHub Stats
+</td>
+</tr>
+</table>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kutirimpuy&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="165" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kutirimpuy&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="165" alt="languages graph" />
-</div>
+## 📊 GitHub Stats &nbsp;&nbsp;|&nbsp;&nbsp; 🏆 Trophies
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=kutirimpuy&theme=dracula&hide_border=false" height="165" alt="streak stats" />
-</div>
+<table>
+<tr>
+<td width="60%" valign="top">
 
-## 🏆 Trophies
+<img src="https://github-readme-stats.vercel.app/api?username=kutirimpuy&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" width="100%" alt="stats graph" />
+<img src="https://streak-stats.demolab.com/?user=kutirimpuy&theme=dracula&hide_border=false" width="100%" alt="streak stats" />
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kutirimpuy&theme=dracula&no-frame=false&no-bg=true&margin-w=4&row=1" alt="trophies" />
-</div>
+</td>
+<td width="40%" valign="top">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kutirimpuy&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="100%" alt="languages graph" />
+<img src="https://github-profile-trophy.vercel.app/?username=kutirimpuy&theme=dracula&no-frame=false&no-bg=true&margin-w=4&row=2&column=3" width="100%" alt="trophies" />
+
+</td>
+</tr>
+</table>
 
 ## 🔝 Top Contributed Repositories
 
