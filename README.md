@@ -1,8 +1,6 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00979D,100:0A66C2&height=200&section=header&text=¡Hola,%20soy%20Renato!&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Mechatronics%20Engineer%20%7C%20Robotics%20%26%20Automation&descAlignY=55&descSize=18" alt="Banner" />
 </div>
-
-
 <table>
 <tr>
 <td width="30%" valign="top">
