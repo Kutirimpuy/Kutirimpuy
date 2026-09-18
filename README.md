@@ -1,62 +1,56 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00979D%2C100:0A66C2&height=200&section=header&text=%C2%A1Hola%2C%20soy%20Renato%21&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Mechatronics%20Engineer%20%7C%20Robotics%20%26%20Automation&descAlignY=55&descSize=18" alt="Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00979D,100:0A66C2&height=200&section=header&text=%C2%A1Hola,%20soy%20Renato!&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Mechatronics%20Engineer%20%7C%20Robotics%20and%20Automation&descAlignY=55&descSize=18" width="100%" alt="Banner" />
+
+  <a href="https://github.com/kutirimpuy">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=0A66C2&center=true&vCenter=true&width=500&lines=Mechatronics+Engineering+Student;Robotics+%26+Automation+Enthusiast;Always+learning+new+technologies!" alt="Typing SVG" />
+  </a>
 </div>
 
 <table>
 <tr>
-<td width="30%" valign="top">
+<td width="220" align="center" valign="middle">
 
-<img src="Kutirimpuy_emote.png" width="150" style="border-radius:50%"/>
+<img src="Kutirimpuy_emote.png" width="160" alt="Kutirimpuy" />
 
-### Renato Eduardo Rojas Vignolo
-**Mechatronics Engineering Student**
-
-📍 Perú
-🔗 [LinkedIn](https://www.linkedin.com/in/kutirimpuy/)
-✉️ [Gmail](mailto:tu_correo@gmail.com)
-
----
-
-**Organizaciones / grupos**
-<br>
-<!-- Si perteneces a alguna org de GitHub, sus logos aparecen aquí automáticamente -->
-<img src="https://github.com/kutirimpuy.png" width="0" height="0"/>
+**Renato Eduardo Rojas Vignolo**<br/>
+<sub>Mechatronics Engineering Student</sub><br/>
+<sub>📍 Perú</sub>
 
 </td>
-<td width="70%" valign="top">
-
-<a href="https://github.com/kutirimpuy">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=0A66C2&center=false&vCenter=true&width=480&lines=Mechatronics+Engineering+Student;Robotics+%26+Automation+Enthusiast;Always+learning+new+technologies!" alt="Typing SVG" />
-</a>
+<td valign="middle">
 
 Soy estudiante de Ingeniería Mecatrónica con gran pasión por la robótica, la automatización y la innovación tecnológica. Siempre estoy buscando nuevas tecnologías y desafíos que me permitan seguir aprendiendo y creciendo en mi campo.
 
-**💡 Me apasiona:**
-| | |
-|---|---|
-| 🤖 Robótica y automatización | ⚙️ Sistemas embebidos |
-| 💻 Programación | 🔬 Innovación tecnológica |
+**💡 Me apasiona**
+
+🤖 Robótica y automatización &nbsp;·&nbsp; ⚙️ Sistemas embebidos &nbsp;·&nbsp; 💻 Programación &nbsp;·&nbsp; 🔬 Innovación tecnológica
+
+<a href="https://www.linkedin.com/in/kutirimpuy/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:tu_correo@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
 
 </td>
 </tr>
 </table>
 
-<br clear="both">
-
-## 💻 Tech Stack &nbsp;&nbsp;|&nbsp;&nbsp; 🖥️ Panel de actividad
+## 💻 Tech Stack &nbsp;|&nbsp; 🖥️ Panel de actividad
 
 <table>
 <tr>
 <td width="45%" valign="top">
 
-![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C](https://img.shields.io/badge/C-blue?style=for-the-badge&logo=c&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+<sub><b>HARDWARE</b></sub><br/>
+<img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino" />
+<img src="https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=for-the-badge&logo=raspberrypi&logoColor=white" alt="Raspberry Pi" />
+
+<sub><b>LENGUAJES</b></sub><br/>
+<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C" />
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
+<img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
+
+<sub><b>WEB Y DATOS</b></sub><br/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+<img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
 
 </td>
 <td width="55%" valign="top">
@@ -84,33 +78,17 @@ Aprendiendo y creciendo 🚀
 </tr>
 </table>
 
-## 📊 GitHub Stats &nbsp;&nbsp;|&nbsp;&nbsp; 🏆 Trophies
-
-<table>
-<tr>
-<td width="60%" valign="top">
-
-<img src="https://github-readme-stats-delta-neon-32.vercel.app/api?username=kutirimpuy&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="165" alt="stats graph" /><br/>
-<img src="https://streak-stats.demolab.com/?user=kutirimpuy&theme=dracula&hide_border=false" height="165" alt="streak stats" />
-
-</td>
-<td width="40%" valign="top">
-
-<!-- Cuando subas tus primeros repos con código, descomenta la línea de abajo para mostrar tus lenguajes más usados -->
-<!-- <img src="https://github-readme-stats-delta-neon-32.vercel.app/api/top-langs/?username=kutirimpuy&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="165" alt="languages graph" /> -->
-<img src="https://github-profile-trophy-mu-eosin.vercel.app/?username=kutirimpuy&theme=dracula&no-frame=false&no-bg=true&margin-w=4&row=2&column=3" height="165" alt="trophies" />
-
-</td>
-</tr>
-</table>
-
-## 🔝 Top Contributed Repositories
+## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-repository-contribution-stat-chi.vercel.app/api?username=kutirimpuy&limit=5&theme=dark&combine_all_yearly_contributions=true" height="150" alt="top contrib" />
+  <!-- Tarjetas generadas por la GitHub Action (.github/workflows/grs.yml) -->
+  <img src="./profile/stats.svg" height="170" alt="GitHub stats" />
+  <img src="https://streak-stats.demolab.com/?user=kutirimpuy&theme=dracula&hide_border=true" height="170" alt="Racha de contribuciones" />
+  <!-- Cuando tengas repos con código, descomenta la siguiente línea para mostrar tus lenguajes -->
+  <!-- <br/><img src="./profile/top-langs.svg" height="170" alt="Lenguajes más usados" /> -->
 </div>
 
-<br clear="both">
+<br/>
 
 <div align="center">
   <picture>
@@ -124,4 +102,4 @@ Aprendiendo y creciendo 🚀
   <sub><i>"El código es como el humor. Cuando tienes que explicarlo, es malo." — Cory House</i></sub>
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:00979D&height=100&section=footer" alt="footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:00979D&height=100&section=footer" width="100%" alt="footer" />
