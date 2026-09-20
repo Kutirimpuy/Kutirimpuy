@@ -10,7 +10,6 @@
 
 <div align="center">
   <a href="https://www.linkedin.com/in/kutirimpuy/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0C1226" alt="LinkedIn" /></a>
-  <a href="mailto:tu_correo@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0C1226" alt="Gmail" /></a>
   <img src="https://img.shields.io/badge/Perú-2DD4BF?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=0C1226" alt="Perú" />
 </div>
 
