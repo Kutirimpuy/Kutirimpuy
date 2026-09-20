@@ -5,7 +5,7 @@
 <div align="center">
   <img src="Kutirimpuy_emote.png" width="165" alt="Kutirimpuy" />
   &nbsp;&nbsp;
-  <img src="assets/about.svg" width="620" alt="Soy estudiante de Ingeniería Mecatrónica con gran pasión por la robótica, la automatización y la innovación tecnológica." />
+  <img src="assets/about.svg" width="650" alt="Soy estudiante de Ingeniería Mecatrónica con gran pasión por la robótica, la automatización y la innovación tecnológica." />
 </div>
 
 <div align="center">
