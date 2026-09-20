@@ -26,8 +26,8 @@
 
 <div align="center">
   <!-- Tarjeta generada por la GitHub Action (.github/workflows/grs.yml) -->
-  <img src="./profile/stats.svg" height="180" alt="GitHub stats" />
-  <img src="https://streak-stats.demolab.com/?user=kutirimpuy&background=0C1226&border=1E2A4A&stroke=1E2A4A&ring=8B5CF6&fire=F59E0B&currStreakNum=E6EDF7&sideNums=E6EDF7&currStreakLabel=22D3EE&sideLabels=8FA3C0&dates=64748B&border_radius=12" height="180" alt="Racha de contribuciones" />
+  <img src="./profile/stats.svg" height="150" alt="GitHub stats" />
+  <img src="https://streak-stats.demolab.com/?user=kutirimpuy&background=0C1226&border=1E2A4A&stroke=1E2A4A&ring=8B5CF6&fire=F59E0B&currStreakNum=E6EDF7&sideNums=E6EDF7&currStreakLabel=22D3EE&sideLabels=8FA3C0&dates=64748B&border_radius=12" height="150" alt="Racha de contribuciones" />
   <!-- Cuando tengas repos con código, descomenta la línea de abajo para mostrar tus lenguajes -->
   <!-- <br/><img src="./profile/top-langs.svg" height="180" alt="Lenguajes más usados" /> -->
 </div>
