@@ -3,15 +3,15 @@
 </div>
 
 <div align="center">
-  <img src="assets/avatar.svg" width="165" alt="Kutirimpuy" />
+  <a href="https://www.linkedin.com/in/kutirimpuy/"><img src="assets/avatar.svg" width="160" alt="Kutirimpuy — LinkedIn" /></a>
   &nbsp;&nbsp;
-  <img src="assets/about.svg" width="660" alt="Soy estudiante de Ingeniería Mecatrónica con gran pasión por la robótica, la automatización y la innovación tecnológica." />
+  <img src="assets/about.svg" width="630" alt="Soy estudiante de Ingeniería Mecatrónica con gran pasión por la robótica, la automatización y la innovación tecnológica." />
 </div>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/kutirimpuy/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0C1226" alt="LinkedIn" /></a>
   <img src="https://img.shields.io/badge/Perú-2DD4BF?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=0C1226" alt="Perú" />
 </div>
+
 
 ## 💻 Tech Stack &nbsp;|&nbsp; 🖥️ Panel de actividad
 
