@@ -3,9 +3,9 @@
 </div>
 
 <div align="center">
-  <img src="assets/avatar.svg" width="165" alt="Kutirimpuy" />
+  <img src="assets/avatar.svg" width="210" alt="Kutirimpuy" />
   &nbsp;&nbsp;
-  <img src="assets/about.svg" width="660" alt="Soy estudiante de Ingeniería Mecatrónica con gran pasión por la robótica, la automatización y la innovación tecnológica." />
+  <img src="assets/about.svg" width="590" alt="Soy estudiante de Ingeniería Mecatrónica con gran pasión por la robótica, la automatización y la innovación tecnológica." />
 </div>
 
 <div align="center">
