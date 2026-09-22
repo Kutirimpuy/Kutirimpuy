@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/kutirimpuy/"><img src="assets/avatar.svg" width="160" alt="Kutirimpuy — LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/renato-rojas24"><img src="assets/avatar.svg" width="160" alt="Kutirimpuy — LinkedIn" /></a>
   &nbsp;&nbsp;
   <img src="assets/about.svg" width="630" alt="Soy estudiante de Ingeniería Mecatrónica con gran pasión por la robótica, la automatización y la innovación tecnológica." />
 </div>
