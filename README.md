@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/banner.svg" width="100%" alt="¡Hola, soy Renato! — Mechatronics Engineer | Robotics and Automation" />
+  <img src="assets/banner.svg" width="100%" alt="¡Hola, soy Renato! — Mechatronics Engineer | Robotics and Automation tipnd" />
 </div>
 
 <div align="center">
